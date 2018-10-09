@@ -36,6 +36,7 @@ namespace imgAppFatihOrgen
             Color renk = resimkaynak.GetPixel(x,y);
             renkAlToolStripMenuItem.BackColor = renk;
             pictureBox2.BackColor = renk;
+            //test github
         }
     }
 }
