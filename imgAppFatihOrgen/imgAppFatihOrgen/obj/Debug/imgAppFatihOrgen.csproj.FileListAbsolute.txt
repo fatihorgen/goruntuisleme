@@ -1,0 +1,12 @@
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\bin\Debug\imgAppFatihOrgen.exe.config
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\bin\Debug\imgAppFatihOrgen.exe
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\bin\Debug\imgAppFatihOrgen.pdb
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.csprojAssemblyReference.cache
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.Form1.resources
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.Form2.resources
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.Properties.Resources.resources
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.csproj.GenerateResource.cache
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.csproj.CoreCompileInputs.cache
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.exe
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.pdb
+D:\github\goruntuisleme\imgAppFatihOrgen\imgAppFatihOrgen\obj\Debug\imgAppFatihOrgen.Form3.resources
